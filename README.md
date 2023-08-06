@@ -10,7 +10,7 @@
 - [P01-1. Introduction to Reinforcement Learning (pytorch) - upload.pdf](https://www.slideshare.net/secret/1Eo98Cqlw9HdhT)
 - [P01-2_backpropagation - upload.pdf](https://www.slideshare.net/secret/5Rj6LZGFgbm08i)
 - [P01-3. Building A Practice System - Windows+Miniconda.pdf](https://www.slideshare.net/secret/zFN7xRTmNRBmxs)
-- [pytorch-dqn-atari-practice.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269238/pytorch-dqn-atari-practice.pdf)
+- [pytorch-dqn-atari-practice.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269507/pytorch-dqn-atari-practice.ipynb.pdf)
 
 ## Part 2. Markov Decision Process (Dynamic Programming Approaches)
 
