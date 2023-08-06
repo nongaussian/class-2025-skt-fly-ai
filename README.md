@@ -16,15 +16,16 @@
 ## Part 2. Markov Decision Process (Dynamic Programming Approaches)
 
 - [P02. Markov Decision Process - upload.pdf](https://www.slideshare.net/secret/ktUmYma9aVGIDu)
-- [example-policy-eval-gridworld.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269509/example-policy-eval-gridworld.ipynb.pdf)
-- [example-policy-eval-pathfinding.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269510/example-policy-eval-pathfinding.ipynb.pdf)
+- [example-policy-eval-gridworld.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269509/example-policy-eval-gridworld.ipynb.pdf) [example-policy-eval-gridworld.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269609/example-policy-eval-gridworld.zip)
+- [example-policy-eval-pathfinding.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269510/example-policy-eval-pathfinding.ipynb.pdf) [example-policy-eval-pathfinding.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269610/example-policy-eval-pathfinding.zip)
 
 ## Part 3. Monte-Carlo RL (Bootstrapping Approaches)
 
 - [P03. Monte-Carlo RL - upload.pdf](https://www.slideshare.net/secret/22L8VzdfkxHQ6e)
-- [example-mc-black-env.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269241/example-mc-black-env.ipynb.pdf)
-- [example-mc-on-policy.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269242/example-mc-on-policy.ipynb.pdf)
-- [example-mc-off-policy.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269244/example-mc-off-policy.ipynb.pdf)
+- [example-mc-black-env.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269241/example-mc-black-env.ipynb.pdf) [example-mc-black-env.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269611/example-mc-black-env.zip)
+- [example-mc-on-policy.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269242/example-mc-on-policy.ipynb.pdf) [example-mc-on-policy.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269614/example-mc-on-policy.zip)
+- [example-mc-off-policy.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269244/example-mc-off-policy.ipynb.pdf) [example-mc-off-policy.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269613/example-mc-off-policy.zip)
+
 
 ## Part 4. Temporal-Difference RL (Bootstrapping Approaches)
 
