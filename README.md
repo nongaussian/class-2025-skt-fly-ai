@@ -15,8 +15,8 @@
 ## Part 2. Markov Decision Process (Dynamic Programming Approaches)
 
 - [P02. Markov Decision Process - upload.pdf](https://www.slideshare.net/secret/ktUmYma9aVGIDu)
-- [example-policy-eval-gridworld.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269239/example-policy-eval-gridworld.pdf)
-- [example-policy-eval-pathfinding.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269240/example-policy-eval-pathfinding.pdf)
+- [example-policy-eval-gridworld.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269509/example-policy-eval-gridworld.ipynb.pdf)
+- [example-policy-eval-pathfinding.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269510/example-policy-eval-pathfinding.ipynb.pdf)
 
 ## Part 3. Monte-Carlo RL (Bootstrapping Approaches)
 
