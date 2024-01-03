@@ -34,9 +34,6 @@ for epoch in range(EPOCHS):
     optimizer.step()
 ```
 
-![image](https://github.com/nongaussian/class-2024-skt-fly-ai/assets/10626364/17081953-5a28-4bcc-ae60-41a810f0eaaa)
-
- 
 - [pytorch-dqn-atari-practice.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269507/pytorch-dqn-atari-practice.ipynb.pdf) 
  [pytorch-dqn-atari-practice.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269606/pytorch-dqn-atari-practice.zip)
 
