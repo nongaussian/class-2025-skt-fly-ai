@@ -8,8 +8,35 @@
 ## Part 1. Introduction to Reinforcement Learning
 
 - [P01-1. Introduction to Reinforcement Learning (pytorch) - upload.pdf](https://www.slideshare.net/secret/1Eo98Cqlw9HdhT)
-- [P01-2_backpropagation - upload.pdf](https://www.slideshare.net/secret/5Rj6LZGFgbm08i)
-- [P01-3. Building A Practice System - Windows+Miniconda.pdf](https://www.slideshare.net/secret/zFN7xRTmNRBmxs)
+- [P01-2_backpropagation - upload.pdf](https://www.slideshare.net/secret/5Rj6LZGFgbm08i)<!-- - [P01-3. Building A Practice System - Windows+Miniconda.pdf](https://www.slideshare.net/secret/zFN7xRTmNRBmxs) -->
+
+```python
+import torch
+from torch.autograd import Variable
+
+x = Variable(
+ torch.tensor(1., dtype=torch.float32),
+ requires_grad=True)
+y = Variable(
+ torch.tensor(1., dtype=torch.float32),
+ requires_grad=True)
+z = Variable(
+ torch.tensor(1., dtype=torch.float32),
+ requires_grad=True)
+
+optimizer = torch.optim.SGD(params=[x, y, z], lr=0.01)
+
+EPOCHS = 1000
+for epoch in range(EPOCHS):
+    f = (x + y + z)**2 + (x-1)**2 + (y-1)**2 + (z-1)**2
+    optimizer.zero_grad()
+    f.backward()
+    optimizer.step()
+```
+
+![image](https://github.com/nongaussian/class-2024-skt-fly-ai/assets/10626364/17081953-5a28-4bcc-ae60-41a810f0eaaa)
+
+ 
 - [pytorch-dqn-atari-practice.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269507/pytorch-dqn-atari-practice.ipynb.pdf) 
  [pytorch-dqn-atari-practice.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269606/pytorch-dqn-atari-practice.zip)
 
