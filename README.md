@@ -40,8 +40,7 @@ for epoch in range(EPOCHS):
 ## Part 2. Markov Decision Process (Dynamic Programming Approaches)
 
 - [P02. Markov Decision Process - upload.pdf](https://www.slideshare.net/secret/ktUmYma9aVGIDu)
-- [example-policy-eval-gridworld.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269509/example-policy-eval-gridworld.ipynb.pdf) [example-policy-eval-gridworld.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269609/example-policy-eval-gridworld.zip)
-- [example-policy-eval-pathfinding.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269510/example-policy-eval-pathfinding.ipynb.pdf) [example-policy-eval-pathfinding.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269610/example-policy-eval-pathfinding.zip)
+- [example-policy-eval-gridworld.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269509/example-policy-eval-gridworld.ipynb.pdf) [example-policy-eval-gridworld.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269609/example-policy-eval-gridworld.zip)<!-- - [example-policy-eval-pathfinding.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269510/example-policy-eval-pathfinding.ipynb.pdf) [example-policy-eval-pathfinding.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269610/example-policy-eval-pathfinding.zip)-->
 
 ## Part 3. Monte-Carlo RL (Bootstrapping Approaches)
 
