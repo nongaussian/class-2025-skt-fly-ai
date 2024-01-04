@@ -55,14 +55,12 @@ for epoch in range(EPOCHS):
 - [P04. Temporal-Difference RL - upload.pdf](https://www.slideshare.net/secret/6UBX0iRcVKEnjW)
 - [example-td-sarsa.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269246/example-td-sarsa.ipynb.pdf)
 - [example-td-qlearning.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269247/example-td-qlearning.ipynb.pdf)
-- [example_td_qlearning_taxi.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269248/example_td_qlearning_taxi.ipynb.pdf)
-- [example-td-qlearning-cliffwalking.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269249/example-td-qlearning-cliffwalking.ipynb.pdf)
+- [example_td_qlearning_taxi.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269248/example_td_qlearning_taxi.ipynb.pdf)<!-- - [example-td-qlearning-cliffwalking.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269249/example-td-qlearning-cliffwalking.ipynb.pdf) -->
 
 ## Part 5. Deep Q-Learning
 
 - [P05. Deep RL (torch) - upload.pdf](https://www.slideshare.net/secret/EDCnQQoVG9T3D1)
 - [dqn-shootingairplane-torch.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269251/dqn-shootingairplane-torch.ipynb.pdf)
 - [gym_examples.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269252/gym_examples.zip)
-- [gym_examples(pathfinder).zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269253/gym_examples.pathfinder.zip)
-- [dqn-omok-1-player.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269256/dqn-omok-1-player.ipynb.pdf)
+- [gym_examples(pathfinder).zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269253/gym_examples.pathfinder.zip)<!-- - [dqn-omok-1-player.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269256/dqn-omok-1-player.ipynb.pdf) -->
 
