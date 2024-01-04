@@ -60,6 +60,6 @@ for epoch in range(EPOCHS):
 ## Part 5. Deep Q-Learning
 
 - [P05. Deep RL (torch) - upload.pdf](https://www.slideshare.net/secret/EDCnQQoVG9T3D1)
-- [dqn-shootingairplane-torch.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269251/dqn-shootingairplane-torch.ipynb.pdf)
+- [dqn-shootingairplane-torch.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269251/dqn-shootingairplane-torch.ipynb.pdf) [dqn-shootingairplane-torch-dist.zip](https://github.com/nongaussian/class-2024-skt-fly-ai/files/13830379/dqn-shootingairplane-torch-dist.zip)
 - [gym_examples.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269252/gym_examples.zip): shooting airplane + omok1 game  <!-- - [gym_examples(pathfinder).zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269253/gym_examples.pathfinder.zip)--> <!-- - [dqn-omok-1-player.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269256/dqn-omok-1-player.ipynb.pdf) -->
 
