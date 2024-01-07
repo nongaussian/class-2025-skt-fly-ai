@@ -64,3 +64,5 @@ for epoch in range(EPOCHS):
 - [dqn-shootingairplane-torch.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269251/dqn-shootingairplane-torch.ipynb.pdf) [dqn-shootingairplane-torch-dist.zip](https://github.com/nongaussian/class-2024-skt-fly-ai/files/13830379/dqn-shootingairplane-torch-dist.zip)
 - [gym_examples.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269252/gym_examples.zip): shooting airplane  <!-- - [gym_examples(pathfinder).zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269253/gym_examples.pathfinder.zip)--> <!-- - [dqn-omok-1-player.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269256/dqn-omok-1-player.ipynb.pdf) -->
 - [box2d-lunarlander-gym.zip](https://github.com/nongaussian/class-2024-skt-fly-ai/files/13853892/box2d-lunarlander-gym.zip)
+- [P05. Deep RL (torch) - final assignments.pdf](https://github.com/nongaussian/class-2024-skt-fly-ai/files/13853909/P05.Deep.RL.torch.-.final.assignments.pdf)
+
