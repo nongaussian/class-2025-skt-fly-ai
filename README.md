@@ -56,6 +56,8 @@ for epoch in range(EPOCHS):
 - [example-td-sarsa.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269246/example-td-sarsa.ipynb.pdf)
 - [example-td-qlearning.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269247/example-td-qlearning.ipynb.pdf)
 - [example_td_qlearning_taxi.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269248/example_td_qlearning_taxi.ipynb.pdf)<!-- - [example-td-qlearning-cliffwalking.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269249/example-td-qlearning-cliffwalking.ipynb.pdf) -->
+- [box2d-lunarlander-gym.zip](https://github.com/nongaussian/class-2024-skt-fly-ai/files/13853892/box2d-lunarlander-gym.zip)
+
 
 ## Part 5. Deep Q-Learning
 
