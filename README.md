@@ -7,9 +7,12 @@
  
 ## Part 1. Introduction to Reinforcement Learning
 
-- [P01-1. Introduction to Reinforcement Learning (pytorch) - upload.pdf](https://www.slideshare.net/secret/1Eo98Cqlw9HdhT)
-- [P01-2_backpropagation - upload.pdf](https://www.slideshare.net/secret/5Rj6LZGFgbm08i)<!-- - [P01-3. Building A Practice System - Windows+Miniconda.pdf](https://www.slideshare.net/secret/zFN7xRTmNRBmxs) -->
+- [P01-1. Introduction to Reinforcement Learning (pytorch) - upload.pdf](https://github.com/user-attachments/files/16246786/P01-1.Introduction.to.Reinforcement.Learning.pytorch.-.upload.pdf)
+- [P01-2_backpropagation - upload.pdf](https://github.com/user-attachments/files/16246790/P01-2_backpropagation.-.upload.pdf)
+- [pytorch-dqn-atari-practice.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269507/pytorch-dqn-atari-practice.ipynb.pdf) 
+ [pytorch-dqn-atari-practice.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269606/pytorch-dqn-atari-practice.zip)
 
+<!--
 ```python
 import torch
 from torch.autograd import Variable
@@ -28,15 +31,15 @@ optimizer = torch.optim.SGD(params=[x, y, z], lr=0.01)
 
 EPOCHS = 1000
 for epoch in range(EPOCHS):
-    f = (x + y + z)**2 + (x-1)**2 + (y-1)**2 + (z-1)**2
-    optimizer.zero_grad()
-    f.backward()
-    optimizer.step()
+    f = (x + y + z)**2 + (x-1)**2 + (y-1)**2 + (z-1)**2
+    optimizer.zero_grad()
+    f.backward()
+    optimizer.step()
 ```
+-->
 
-- [pytorch-dqn-atari-practice.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269507/pytorch-dqn-atari-practice.ipynb.pdf) 
- [pytorch-dqn-atari-practice.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269606/pytorch-dqn-atari-practice.zip)
 
+<!--
 ## Part 2. Markov Decision Process (Dynamic Programming Approaches)
 
 - [P02. Markov Decision Process - upload.pdf](https://www.slideshare.net/secret/ktUmYma9aVGIDu)
@@ -64,4 +67,5 @@ for epoch in range(EPOCHS):
 - [gym_examples.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269252/gym_examples.zip): shooting airplane
 - [box2d-lunarlander-gym.zip](https://github.com/nongaussian/class-2024-skt-fly-ai/files/13853892/box2d-lunarlander-gym.zip)
 - [P05. Deep RL (torch) - final assignments.pdf](https://github.com/nongaussian/class-2024-skt-fly-ai/files/13853909/P05.Deep.RL.torch.-.final.assignments.pdf)
+-->
 
