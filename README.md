@@ -7,7 +7,7 @@
  
 ## Part 1. Introduction to Reinforcement Learning
 
-- [P01-1. Introduction to Reinforcement Learning (pytorch) - upload.pdf](https://github.com/user-attachments/files/16246786/P01-1.Introduction.to.Reinforcement.Learning.pytorch.-.upload.pdf)
+- [P01-1. Introduction to Reinforcement Learning (pytorch) - upload.pdf](https://github.com/user-attachments/files/16267397/P01-1.Introduction.to.Reinforcement.Learning.pytorch.-.upload.pdf)
 - [P01-2_backpropagation - upload.pdf](https://github.com/user-attachments/files/16246790/P01-2_backpropagation.-.upload.pdf)
 - [pytorch-dqn-atari-practice.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269507/pytorch-dqn-atari-practice.ipynb.pdf)
 
@@ -42,30 +42,28 @@ for epoch in range(EPOCHS):
 
 ## Part 2. Markov Decision Process (Dynamic Programming Approaches)
 
-- [P02. Markov Decision Process - upload.pdf](https://github.com/user-attachments/files/16249457/P02.Markov.Decision.Process.-.upload.pdf)
+- [P02. Markov Decision Process - upload.pdf](https://github.com/user-attachments/files/16267407/P02.Markov.Decision.Process.-.upload.pdf)
 - [example-policy-eval-gridworld.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269509/example-policy-eval-gridworld.ipynb.pdf) <!--[example-policy-eval-gridworld.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269609/example-policy-eval-gridworld.zip)-->
 
 ## Part 3. Monte-Carlo RL (Bootstrapping Approaches)
 
-- [P03. Monte-Carlo RL - upload.pdf](https://github.com/user-attachments/files/16249461/P03.Monte-Carlo.RL.-.upload.pdf)
+- [P03. Monte-Carlo RL - upload.pdf](https://github.com/user-attachments/files/16267413/P03.Monte-Carlo.RL.-.upload.pdf)
 - [example-mc-black-env.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269241/example-mc-black-env.ipynb.pdf) <!--[example-mc-black-env.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269611/example-mc-black-env.zip)-->
 - [example-mc-on-policy.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269242/example-mc-on-policy.ipynb.pdf)
 - [example-mc-off-policy.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269244/example-mc-off-policy.ipynb.pdf)
 
-<!--
+
 ## Part 4. Temporal-Difference RL (Bootstrapping Approaches)
 
-- [P04. Temporal-Difference RL - upload.pdf](https://www.slideshare.net/secret/6UBX0iRcVKEnjW)
+- [P04. Temporal-Difference RL - upload.pdf](https://github.com/user-attachments/files/16267416/P04.Temporal-Difference.RL.-.upload.pdf)
 - [example-td-sarsa.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269246/example-td-sarsa.ipynb.pdf)
 - [example-td-qlearning.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269247/example-td-qlearning.ipynb.pdf)
 - [example_td_qlearning_taxi.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269248/example_td_qlearning_taxi.ipynb.pdf)
 
 ## Part 5. Deep Q-Learning
 
-- [P05. Deep RL (torch) - upload.pdf](https://www.slideshare.net/secret/EDCnQQoVG9T3D1)
+- [P05. Deep RL (torch) - upload.pdf](https://github.com/user-attachments/files/16267420/P05.Deep.RL.torch.-.upload.pdf)
 - [dqn-shootingairplane-torch.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269251/dqn-shootingairplane-torch.ipynb.pdf) [dqn-shootingairplane-torch-dist.zip](https://github.com/nongaussian/class-2024-skt-fly-ai/files/13830379/dqn-shootingairplane-torch-dist.zip)
-- [gym_examples.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269252/gym_examples.zip): shooting airplane
-- [box2d-lunarlander-gym.zip](https://github.com/nongaussian/class-2024-skt-fly-ai/files/13853892/box2d-lunarlander-gym.zip)
-- [P05. Deep RL (torch) - final assignments.pdf](https://github.com/nongaussian/class-2024-skt-fly-ai/files/13853909/P05.Deep.RL.torch.-.final.assignments.pdf)
--->
+
+
 
