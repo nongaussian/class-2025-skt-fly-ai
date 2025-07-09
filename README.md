@@ -3,7 +3,6 @@
 # SKT FLY AI Challenger - Reinforcement Learning
 
 - 김영훈 (한양대학교ERICA 인공지능학과)
-- 참조 슬라이드: [Introduction to Reinforcement Learning with David Silver (deepmind.com)](https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver)
  
 ## Part 1. Introduction to Reinforcement Learning
 
