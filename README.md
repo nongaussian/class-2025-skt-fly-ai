@@ -8,10 +8,11 @@
 
 - [P01-1. Introduction to Reinforcement Learning (pytorch) - upload.pdf](https://github.com/user-attachments/files/16267397/P01-1.Introduction.to.Reinforcement.Learning.pytorch.-.upload.pdf)
 - [P01-2_backpropagation - upload.pdf](https://github.com/user-attachments/files/16246790/P01-2_backpropagation.-.upload.pdf)
-- [P1. atari-breakout-cuda.ipynb - Colab.pdf](https://github.com/user-attachments/files/18506054/P1.atari-breakout-cuda.ipynb.-.Colab.pdf)
+- [P1. atari-breakout-cuda.zip](https://github.com/user-attachments/files/21137927/P1.atari-breakout-cuda.zip)
 
 <!--
- [pytorch-dqn-atari-practice.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269606/pytorch-dqn-atari-practice.zip)
+- [P1. atari-breakout-cuda.ipynb - Colab.pdf](https://github.com/user-attachments/files/18506054/P1.atari-breakout-cuda.ipynb.-.Colab.pdf)
+- [pytorch-dqn-atari-practice.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269606/pytorch-dqn-atari-practice.zip)
 -->
 <!--
 ```python
