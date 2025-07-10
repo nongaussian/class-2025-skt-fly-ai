@@ -64,6 +64,7 @@ for epoch in range(EPOCHS):
 
 - [P05. Deep RL (torch) - upload.pdf](https://github.com/user-attachments/files/16269930/P05.Deep.RL.torch.-.upload.pdf)
 - [dqn-shootingairplane-torch-dist.zip](https://github.com/nongaussian/class-2024-skt-fly-ai/files/13830379/dqn-shootingairplane-torch-dist.zip)
+- [P5. box2d-lunarlander-gym.ipynb.zip](https://github.com/user-attachments/files/21172651/P5.box2d-lunarlander-gym.ipynb.zip)
 - [gym_examples.zip](https://github.com/user-attachments/files/21172582/gym_examples.zip)
 
 
