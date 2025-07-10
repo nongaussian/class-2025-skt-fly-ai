@@ -63,7 +63,7 @@ for epoch in range(EPOCHS):
 ## Part 5. Deep Q-Learning
 
 - [P05. Deep RL (torch) - upload.pdf](https://github.com/user-attachments/files/16269930/P05.Deep.RL.torch.-.upload.pdf)
-- [dqn-shootingairplane-torch.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269251/dqn-shootingairplane-torch.ipynb.pdf) [dqn-shootingairplane-torch-dist.zip](https://github.com/nongaussian/class-2024-skt-fly-ai/files/13830379/dqn-shootingairplane-torch-dist.zip)
-
+- [dqn-shootingairplane-torch-dist.zip](https://github.com/nongaussian/class-2024-skt-fly-ai/files/13830379/dqn-shootingairplane-torch-dist.zip)
+- [gym_examples.zip](https://github.com/user-attachments/files/21172582/gym_examples.zip)
 
 
