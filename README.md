@@ -43,7 +43,7 @@ for epoch in range(EPOCHS):
 ## Part 2. Markov Decision Process (Dynamic Programming Approaches)
 
 - [P02. Markov Decision Process - upload.pdf](https://github.com/user-attachments/files/16267407/P02.Markov.Decision.Process.-.upload.pdf)
-- [example-policy-eval-gridworld.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269509/example-policy-eval-gridworld.ipynb.pdf) <!--[example-policy-eval-gridworld.zip](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269609/example-policy-eval-gridworld.zip)-->
+- [example-policy-eval-gridworld.zip](https://github.com/user-attachments/files/21154317/example-policy-eval-gridworld.zip)
 
 ## Part 3. Monte-Carlo RL (Bootstrapping Approaches)
 
