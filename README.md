@@ -56,9 +56,13 @@ for epoch in range(EPOCHS):
 ## Part 4. Temporal-Difference RL (Bootstrapping Approaches)
 
 - [P04. Temporal-Difference RL.pdf](https://github.com/user-attachments/files/18544330/P04.Temporal-Difference.RL.pdf)
+- [P4_taxi.ipynb.zip](https://github.com/user-attachments/files/21174083/P4_taxi.ipynb.zip)
+
+<!--
 - [example-td-sarsa.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269246/example-td-sarsa.ipynb.pdf)
 - [example-td-qlearning.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269247/example-td-qlearning.ipynb.pdf)
 - [example_td_qlearning_taxi.ipynb.pdf](https://github.com/nongaussian/class-2023-skt-fly-ai/files/12269248/example_td_qlearning_taxi.ipynb.pdf)
+-->
 
 ## Part 5. Deep Q-Learning
 
